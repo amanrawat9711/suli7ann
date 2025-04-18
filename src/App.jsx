@@ -20,7 +20,7 @@ function App() {
       <div className="bg-black opacity-55 p-6 md:p-10 rounded-2xl max-w-2xl text-center shadow-lg">
         <h1 className="text-xl md:text-3xl font-bold mb-4">Happy 7th Anniversary 💌</h1>
         <p className="text-sm md:text-lg leading-relaxed">
-          I love you so much baby. You are my everything. Every day with you is so perfect.
+          Ang nwngkhou mwjang mwnw baby. You are my everything. Every day with you is so perfect.
           We have spent <span className="font-semibold text-pink-400">{relDate}</span> beautiful days together — that means I have
           <b> laughed</b> every single day, because I'm with you.
           <br /><br />
